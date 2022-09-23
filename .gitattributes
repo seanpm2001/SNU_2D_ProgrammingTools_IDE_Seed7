@@ -32,10 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# BitBake source file
-*.bb linguist-detectable=true
-*.bb linguist-documentation=false
-*.bb linguist-language=BitBake
+# Seed7 source file
+*.sd7 linguist-detectable=true
+*.sd7 linguist-documentation=false
+*.sd7 linguist-language=Seed7
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -154,26 +154,25 @@
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
 # Roff
-# Does not need to be discluded
-# *.0 linguist-detectable=false
-# *.0 linguist-documentation=false
-# *.0 linguist-language=Roff
-# *.1 linguist-detectable=false
-# *.1 linguist-documentation=false
-# *.1 linguist-language=Roff
-# *.2 linguist-detectable=false
-# *.2 linguist-documentation=false
-# *.2 linguist-language=Roff
-# *.3 linguist-detectable=false
-# *.3 linguist-documentation=false
-# *.3 linguist-language=Roff
-# *.roff linguist-detectable=false
-# *.roff linguist-documentation=false
-# *.roff linguist-language=Roff
+*.0 linguist-detectable=false
+*.0 linguist-documentation=false
+*.0 linguist-language=Roff
+*.1 linguist-detectable=false
+*.1 linguist-documentation=false
+*.1 linguist-language=Roff
+*.2 linguist-detectable=false
+*.2 linguist-documentation=false
+*.2 linguist-language=Roff
+*.3 linguist-detectable=false
+*.3 linguist-documentation=false
+*.3 linguist-language=Roff
+*.roff linguist-detectable=false
+*.roff linguist-documentation=false
+*.roff linguist-language=Roff
 # End of linguist script
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 2 (2022, Tuesday, August 30th at 2:34 pm PST)
-# Line count (including blank lines and compiler line): 180
+# File version: 3 (2022, Friday, September 23rd at 3:24 pm PST)
+# Line count (including blank lines and compiler line): 179
 # End of script
